@@ -1,0 +1,12 @@
+Final Observations that can be made from the data:
+
+1  The Summary Statistics of Tumor Volume showed that Capomulin and Ramicane had the lowest mean Tumor Volume.  
+Variance rates were similar for these two drugs
+
+2  From the Box Plots of Capomulin and Ramican had the lowest means of the 4 drugs analyzed.  Infubinol had 1 outlier.
+
+
+3 The selection of one mouse treated with Capomulin showed a reduction in Tumor volume over time
+
+4  
+
